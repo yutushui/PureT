@@ -1,0 +1,104 @@
+common:
+  run_label: "stanford_dogs_byteformer_stage1_v4"
+  log_freq: 100
+  auto_resume: true
+  mixed_precision: true
+  accum_freq: 1
+
+ddp:
+  world_size: 1
+  dist_port: 29601
+
+dataset:
+  root_train: "PureT/stanford_dogs_jpeg/train"
+  root_val: "PureT/stanford_dogs_jpeg/test"
+  name: "imagenet"
+  category: "classification"
+
+  train_batch_size0: 24
+  val_batch_size0: 24
+
+  workers: 8
+  persistent_workers: true
+
+  collate_fn_name_train: "byteformer_image_collate_fn"
+  collate_fn_name_val: "byteformer_image_collate_fn"
+  collate_fn_name_test: "byteformer_image_collate_fn"
+
+image_augmentation:
+  random_resized_crop:
+    enable: true
+    size: 224
+    scale: [0.08, 1.0]
+    interpolation: "bicubic"
+  resize:
+    enable: true
+    size: [224, 224]
+  center_crop:
+    enable: true
+    size: 224
+  random_horizontal_flip:
+    enable: true
+  pil_save:
+    enable: true
+    file_encoding: "JPEG"
+    quality: 90
+
+sampler:
+  name: "batch_sampler"
+  bs:
+    crop_size_width: 224
+    crop_size_height: 224
+
+loss:
+  category: "classification"
+  classification:
+    name: "cross_entropy"
+    cross_entropy:
+      label_smoothing: 0.1
+
+optim:
+  name: "adamw"
+  weight_decay: 0.05
+  no_decay_bn_filter_bias: true
+  adamw:
+    beta1: 0.9
+    beta2: 0.999
+
+scheduler:
+  name: "cosine"
+  max_epochs: 80
+  warmup_iterations: 800
+  cosine:
+    max_lr: 0.00015
+    min_lr: 1.0e-06
+
+model:
+  classification:
+    name: "byteformer"
+    n_classes: 120
+    pretrained: "byteformer_hf_migration/weights/imagenet_jpeg_q60_k4_w128.pt"
+    byteformer:
+      mode: "tiny"
+      max_num_tokens: 50000
+      conv_kernel_size: 4
+      window_sizes:
+      - 128
+  # 排除 ImageNet 的分类头（1000 类），使用 Stanford Dogs 的分类头（120 类）
+  resume_exclude_scopes: ["classifier.weight", "classifier.bias"]
+
+  activation:
+    name: "gelu"
+  layer:
+    global_pool: "mean"
+    conv_init: "kaiming_uniform"
+    linear_init: "trunc_normal"
+
+ema:
+  enable: true
+
+stats:
+  val: ["loss", "top1", "top5"]
+  train: ["loss"]
+  checkpoint_metric: "top1"
+  checkpoint_metric_max: true

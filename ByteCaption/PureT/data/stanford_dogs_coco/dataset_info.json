@@ -1,0 +1,10 @@
+{
+  "name": "Stanford Dogs Caption Dataset",
+  "version": "1.0",
+  "description": "Stanford Dogs Dataset with AI-generated captions",
+  "total_records": 3108,
+  "train_size": 2486,
+  "val_size": 622,
+  "breed_count": 19,
+  "source": "Generated from label.log"
+}

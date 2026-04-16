@@ -1,0 +1,27 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "image_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    },
+    "caption": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "breed": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "folder": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

@@ -1,0 +1,19 @@
+{
+  "images": [
+    {
+      "id": 4,
+      "file_name": "img5.jpg",
+      "height": 512,
+      "width": 768
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 4,
+      "caption": "A scene showing people and buildings"
+    }
+  ],
+  "licenses": [],
+  "categories": []
+}

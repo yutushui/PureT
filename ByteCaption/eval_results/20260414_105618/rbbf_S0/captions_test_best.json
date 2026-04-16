@@ -1,0 +1,702 @@
+[
+  {
+    "image_id": 0,
+    "caption": "the dog is a norwegian elkhound",
+    "references": [
+      "The dog is a Norwegian elkhound."
+    ]
+  },
+  {
+    "image_id": 1,
+    "caption": "the dog is a english foxhound",
+    "references": [
+      "The dog is a Brittany spaniel."
+    ]
+  },
+  {
+    "image_id": 2,
+    "caption": "the dog is a irish terrier",
+    "references": [
+      "The dog is a Norfolk terrier."
+    ]
+  },
+  {
+    "image_id": 3,
+    "caption": "the dog is a tibetan terrier",
+    "references": [
+      "The dog is a Saluki."
+    ]
+  },
+  {
+    "image_id": 4,
+    "caption": "the dog is a keeshond",
+    "references": [
+      "The dog is a keeshond."
+    ]
+  },
+  {
+    "image_id": 5,
+    "caption": "the dog is a great dane",
+    "references": [
+      "The dog is a whippet."
+    ]
+  },
+  {
+    "image_id": 6,
+    "caption": "the dog is a keeshond",
+    "references": [
+      "The dog is a chow."
+    ]
+  },
+  {
+    "image_id": 7,
+    "caption": "the dog is a saluki",
+    "references": [
+      "The dog is a Ibizan hound."
+    ]
+  },
+  {
+    "image_id": 8,
+    "caption": "the dog is a chesapeake bay retriever",
+    "references": [
+      "The dog is a golden retriever."
+    ]
+  },
+  {
+    "image_id": 9,
+    "caption": "the dog is a borzoi",
+    "references": [
+      "The dog is a Ibizan hound."
+    ]
+  },
+  {
+    "image_id": 10,
+    "caption": "the dog is a affenpinscher",
+    "references": [
+      "The dog is a groenendael."
+    ]
+  },
+  {
+    "image_id": 11,
+    "caption": "the dog is a dhole",
+    "references": [
+      "The dog is a dhole."
+    ]
+  },
+  {
+    "image_id": 12,
+    "caption": "the dog is a english setter",
+    "references": [
+      "The dog is a Chihuahua."
+    ]
+  },
+  {
+    "image_id": 13,
+    "caption": "the dog is a english setter",
+    "references": [
+      "The dog is a Shih-Tzu."
+    ]
+  },
+  {
+    "image_id": 14,
+    "caption": "the dog is a basenji",
+    "references": [
+      "The dog is a basenji."
+    ]
+  },
+  {
+    "image_id": 15,
+    "caption": "the dog is a airedale",
+    "references": [
+      "The dog is a Airedale."
+    ]
+  },
+  {
+    "image_id": 16,
+    "caption": "the dog is a tibetan terrier",
+    "references": [
+      "The dog is a Lhasa."
+    ]
+  },
+  {
+    "image_id": 17,
+    "caption": "the dog is a newfoundland",
+    "references": [
+      "The dog is a Tibetan mastiff."
+    ]
+  },
+  {
+    "image_id": 18,
+    "caption": "the dog is a entlebucher",
+    "references": [
+      "The dog is a miniature pinscher."
+    ]
+  },
+  {
+    "image_id": 19,
+    "caption": "the dog is a chihuahua",
+    "references": [
+      "The dog is a Chihuahua."
+    ]
+  },
+  {
+    "image_id": 20,
+    "caption": "the dog is a retriever",
+    "references": [
+      "The dog is a Chesapeake Bay retriever."
+    ]
+  },
+  {
+    "image_id": 21,
+    "caption": "the dog is a doberman",
+    "references": [
+      "The dog is a black-and-tan coonhound."
+    ]
+  },
+  {
+    "image_id": 22,
+    "caption": "the dog is a sussex spaniel",
+    "references": [
+      "The dog is a Sussex spaniel."
+    ]
+  },
+  {
+    "image_id": 23,
+    "caption": "the dog is a rottweiler",
+    "references": [
+      "The dog is a Gordon setter."
+    ]
+  },
+  {
+    "image_id": 24,
+    "caption": "the dog is a border terrier",
+    "references": [
+      "The dog is a Airedale."
+    ]
+  },
+  {
+    "image_id": 25,
+    "caption": "the dog is a miniature pinscher",
+    "references": [
+      "The dog is a miniature pinscher."
+    ]
+  },
+  {
+    "image_id": 26,
+    "caption": "the dog is a german pointer",
+    "references": [
+      "The dog is a bluetick."
+    ]
+  },
+  {
+    "image_id": 27,
+    "caption": "the dog is a greater swiss mountain dog",
+    "references": [
+      "The dog is a Gordon setter."
+    ]
+  },
+  {
+    "image_id": 28,
+    "caption": "the dog is a japanese spaniel",
+    "references": [
+      "The dog is a Japanese spaniel."
+    ]
+  },
+  {
+    "image_id": 29,
+    "caption": "the dog is a shetland sheepdog",
+    "references": [
+      "The dog is a Bernese mountain dog."
+    ]
+  },
+  {
+    "image_id": 30,
+    "caption": "the dog is a bouvier des flandres",
+    "references": [
+      "The dog is a Irish water spaniel."
+    ]
+  },
+  {
+    "image_id": 31,
+    "caption": "the dog is a entlebucher",
+    "references": [
+      "The dog is a beagle."
+    ]
+  },
+  {
+    "image_id": 32,
+    "caption": "the dog is a tibetan mastiff",
+    "references": [
+      "The dog is a Tibetan mastiff."
+    ]
+  },
+  {
+    "image_id": 33,
+    "caption": "the dog is a german shepherd",
+    "references": [
+      "The dog is a African hunting dog."
+    ]
+  },
+  {
+    "image_id": 34,
+    "caption": "the dog is a fox terrier",
+    "references": [
+      "The dog is a standard poodle."
+    ]
+  },
+  {
+    "image_id": 35,
+    "caption": "the dog is a african hunting dog",
+    "references": [
+      "The dog is a African hunting dog."
+    ]
+  },
+  {
+    "image_id": 36,
+    "caption": "the dog is a gordon setter",
+    "references": [
+      "The dog is a Bernese mountain dog."
+    ]
+  },
+  {
+    "image_id": 37,
+    "caption": "the dog is a groenendael",
+    "references": [
+      "The dog is a groenendael."
+    ]
+  },
+  {
+    "image_id": 38,
+    "caption": "the dog is a borzoi",
+    "references": [
+      "The dog is a malamute."
+    ]
+  },
+  {
+    "image_id": 39,
+    "caption": "the dog is a dingo",
+    "references": [
+      "The dog is a dhole."
+    ]
+  },
+  {
+    "image_id": 40,
+    "caption": "the dog is a komondor",
+    "references": [
+      "The dog is a komondor."
+    ]
+  },
+  {
+    "image_id": 41,
+    "caption": "the dog is a staffordshire bullterrier",
+    "references": [
+      "The dog is a Staffordshire bullterrier."
+    ]
+  },
+  {
+    "image_id": 42,
+    "caption": "the dog is a bouvier des flandres",
+    "references": [
+      "The dog is a Bouvier des Flandres."
+    ]
+  },
+  {
+    "image_id": 43,
+    "caption": "the dog is a great dane",
+    "references": [
+      "The dog is a Great Dane."
+    ]
+  },
+  {
+    "image_id": 44,
+    "caption": "the dog is a keeshond",
+    "references": [
+      "The dog is a keeshond."
+    ]
+  },
+  {
+    "image_id": 45,
+    "caption": "the dog is a brittany spaniel",
+    "references": [
+      "The dog is a Brittany spaniel."
+    ]
+  },
+  {
+    "image_id": 46,
+    "caption": "the dog is a ibizan hound",
+    "references": [
+      "The dog is a Ibizan hound."
+    ]
+  },
+  {
+    "image_id": 47,
+    "caption": "the dog is a bluetick",
+    "references": [
+      "The dog is a standard schnauzer."
+    ]
+  },
+  {
+    "image_id": 48,
+    "caption": "the dog is a bernese mountain dog",
+    "references": [
+      "The dog is a Bernese mountain dog."
+    ]
+  },
+  {
+    "image_id": 49,
+    "caption": "the dog is a siberian husky",
+    "references": [
+      "The dog is a Siberian husky."
+    ]
+  },
+  {
+    "image_id": 50,
+    "caption": "the dog is a newfoundland",
+    "references": [
+      "The dog is a Tibetan terrier."
+    ]
+  },
+  {
+    "image_id": 51,
+    "caption": "the dog is a pomeranian",
+    "references": [
+      "The dog is a Eskimo dog."
+    ]
+  },
+  {
+    "image_id": 52,
+    "caption": "the dog is a airedale",
+    "references": [
+      "The dog is a Irish terrier."
+    ]
+  },
+  {
+    "image_id": 53,
+    "caption": "the dog is a norwegian elkhound",
+    "references": [
+      "The dog is a Norwegian elkhound."
+    ]
+  },
+  {
+    "image_id": 54,
+    "caption": "the dog is a saluki",
+    "references": [
+      "The dog is a Ibizan hound."
+    ]
+  },
+  {
+    "image_id": 55,
+    "caption": "the dog is a basenji",
+    "references": [
+      "The dog is a American Staffordshire terrier."
+    ]
+  },
+  {
+    "image_id": 56,
+    "caption": "the dog is a standard poodle",
+    "references": [
+      "The dog is a standard poodle."
+    ]
+  },
+  {
+    "image_id": 57,
+    "caption": "the dog is a bouvier des flandres",
+    "references": [
+      "The dog is a Bouvier des Flandres."
+    ]
+  },
+  {
+    "image_id": 58,
+    "caption": "the dog is a dhole",
+    "references": [
+      "The dog is a dhole."
+    ]
+  },
+  {
+    "image_id": 59,
+    "caption": "the dog is a toy terrier",
+    "references": [
+      "The dog is a toy terrier."
+    ]
+  },
+  {
+    "image_id": 60,
+    "caption": "the dog is a newfoundland",
+    "references": [
+      "The dog is a Newfoundland."
+    ]
+  },
+  {
+    "image_id": 61,
+    "caption": "the dog is a great pyrenees",
+    "references": [
+      "The dog is a Bedlington terrier."
+    ]
+  },
+  {
+    "image_id": 62,
+    "caption": "the dog is a ibizan hound",
+    "references": [
+      "The dog is a Ibizan hound."
+    ]
+  },
+  {
+    "image_id": 63,
+    "caption": "the dog is a collie",
+    "references": [
+      "The dog is a collie."
+    ]
+  },
+  {
+    "image_id": 64,
+    "caption": "the dog is a english springer",
+    "references": [
+      "The dog is a English springer."
+    ]
+  },
+  {
+    "image_id": 65,
+    "caption": "the dog is a border collie",
+    "references": [
+      "The dog is a collie."
+    ]
+  },
+  {
+    "image_id": 66,
+    "caption": "the dog is a irish terrier",
+    "references": [
+      "The dog is a miniature pinscher."
+    ]
+  },
+  {
+    "image_id": 67,
+    "caption": "the dog is a sealyham terrier",
+    "references": [
+      "The dog is a Sealyham terrier."
+    ]
+  },
+  {
+    "image_id": 68,
+    "caption": "the dog is a japanese spaniel",
+    "references": [
+      "The dog is a Japanese spaniel."
+    ]
+  },
+  {
+    "image_id": 69,
+    "caption": "the dog is a lakeland terrier",
+    "references": [
+      "The dog is a Airedale."
+    ]
+  },
+  {
+    "image_id": 70,
+    "caption": "the dog is a bouvier des flandres",
+    "references": [
+      "The dog is a Newfoundland."
+    ]
+  },
+  {
+    "image_id": 71,
+    "caption": "the dog is a appenzeller",
+    "references": [
+      "The dog is a Greater Swiss Mountain dog."
+    ]
+  },
+  {
+    "image_id": 72,
+    "caption": "the dog is a airedale",
+    "references": [
+      "The dog is a Airedale."
+    ]
+  },
+  {
+    "image_id": 73,
+    "caption": "the dog is a french bulldog",
+    "references": [
+      "The dog is a French bulldog."
+    ]
+  },
+  {
+    "image_id": 74,
+    "caption": "the dog is a blenheim spaniel",
+    "references": [
+      "The dog is a Blenheim spaniel."
+    ]
+  },
+  {
+    "image_id": 75,
+    "caption": "the dog is a border terrier",
+    "references": [
+      "The dog is a Norfolk terrier."
+    ]
+  },
+  {
+    "image_id": 76,
+    "caption": "the dog is a fox terrier",
+    "references": [
+      "The dog is a toy poodle."
+    ]
+  },
+  {
+    "image_id": 77,
+    "caption": "the dog is a border terrier",
+    "references": [
+      "The dog is a Rhodesian ridgeback."
+    ]
+  },
+  {
+    "image_id": 78,
+    "caption": "the dog is a walker hound",
+    "references": [
+      "The dog is a Walker hound."
+    ]
+  },
+  {
+    "image_id": 79,
+    "caption": "the dog is a blenheim spaniel",
+    "references": [
+      "The dog is a Tibetan terrier."
+    ]
+  },
+  {
+    "image_id": 80,
+    "caption": "the dog is a kuvasz",
+    "references": [
+      "The dog is a kuvasz."
+    ]
+  },
+  {
+    "image_id": 81,
+    "caption": "the dog is a dhole",
+    "references": [
+      "The dog is a dhole."
+    ]
+  },
+  {
+    "image_id": 82,
+    "caption": "the dog is a norfolk terrier",
+    "references": [
+      "The dog is a Australian terrier."
+    ]
+  },
+  {
+    "image_id": 83,
+    "caption": "the dog is a redbone",
+    "references": [
+      "The dog is a redbone."
+    ]
+  },
+  {
+    "image_id": 84,
+    "caption": "the dog is a bedlington terrier",
+    "references": [
+      "The dog is a Bedlington terrier."
+    ]
+  },
+  {
+    "image_id": 85,
+    "caption": "the dog is a kelpie",
+    "references": [
+      "The dog is a kelpie."
+    ]
+  },
+  {
+    "image_id": 86,
+    "caption": "the dog is a kelpie",
+    "references": [
+      "The dog is a Tibetan mastiff."
+    ]
+  },
+  {
+    "image_id": 87,
+    "caption": "the dog is a siberian husky",
+    "references": [
+      "The dog is a malamute."
+    ]
+  },
+  {
+    "image_id": 88,
+    "caption": "the dog is a pug",
+    "references": [
+      "The dog is a Chihuahua."
+    ]
+  },
+  {
+    "image_id": 89,
+    "caption": "the dog is a welsh springer spaniel",
+    "references": [
+      "The dog is a Siberian husky."
+    ]
+  },
+  {
+    "image_id": 90,
+    "caption": "the dog is a saluki",
+    "references": [
+      "The dog is a Shih-Tzu."
+    ]
+  },
+  {
+    "image_id": 91,
+    "caption": "the dog is a schipperke",
+    "references": [
+      "The dog is a groenendael."
+    ]
+  },
+  {
+    "image_id": 92,
+    "caption": "the dog is a and coonhound",
+    "references": [
+      "The dog is a black-and-tan coonhound."
+    ]
+  },
+  {
+    "image_id": 93,
+    "caption": "the dog is a irish wolfhound",
+    "references": [
+      "The dog is a Irish wolfhound."
+    ]
+  },
+  {
+    "image_id": 94,
+    "caption": "the dog is a doberman",
+    "references": [
+      "The dog is a black-and-tan coonhound."
+    ]
+  },
+  {
+    "image_id": 95,
+    "caption": "the dog is a tibetan mastiff",
+    "references": [
+      "The dog is a Border collie."
+    ]
+  },
+  {
+    "image_id": 96,
+    "caption": "the dog is a kelpie",
+    "references": [
+      "The dog is a Staffordshire bullterrier."
+    ]
+  },
+  {
+    "image_id": 97,
+    "caption": "the dog is a cocker spaniel",
+    "references": [
+      "The dog is a cocker spaniel."
+    ]
+  },
+  {
+    "image_id": 98,
+    "caption": "the dog is a beagle",
+    "references": [
+      "The dog is a Italian greyhound."
+    ]
+  },
+  {
+    "image_id": 99,
+    "caption": "the dog is a wheaten terrier",
+    "references": [
+      "The dog is a Leonberg."
+    ]
+  }
+]

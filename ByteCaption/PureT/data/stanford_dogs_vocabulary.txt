@@ -1,0 +1,359 @@
+<pad>
+<unk>
+<bos>
+<eos>
+dog
+the
+is
+a
+terrier.
+english
+irish
+miniature
+tibetan
+airedale
+german
+wire-haired
+fox
+border
+toy
+standard
+mountain
+great
+staffordshire
+basset
+cardigan
+komondor
+bloodhound
+afghan
+soft-coated
+wheaten
+bedlington
+welsh
+springer
+cocker
+shetland
+rhodesian
+boston
+bull
+lhasa
+pomeranian
+dandie
+norwich
+whippet
+dhole
+lakeland
+labrador
+golden
+scotch
+malamute
+affenpinscher
+groenendael
+pembroke
+clumber
+malinois
+sealyham
+maltese
+short-haired
+french
+norfolk
+black-and-tan
+african
+hunting
+bouvier
+des
+entlebucher
+briard
+appenzeller
+beagle
+dingo
+boxer
+australian
+vizsla
+shih-tzu
+weimaraner
+otterhound
+pekinese
+bernese
+curly-coated
+blenheim
+italian
+water
+kelpie
+borzoi
+saluki
+leonberg
+newfoundland
+chow
+old
+brittany
+japanese
+scottish
+eskimo
+bluetick
+rottweiler
+cairn
+redbone
+pug
+samoyed
+papillon
+greater
+swiss
+flat-coated
+norwegian
+saint
+sussex
+schipperke
+chihuahua
+mexican
+yorkshire
+siberian
+brabancon
+collie
+keeshond
+west
+highland
+white
+walker
+silky
+gordon
+kuvasz
+chesapeake
+bay
+basenji
+ibizan
+kerry
+blue
+doberman
+american
+giant
+dinmont
+bernard
+elkhound
+coonhound
+flandres
+husky
+sheepdog
+hairless
+ridgeback
+hound
+wolfhound
+bullterrier
+foxhound
+terrier
+shepherd
+deerhound
+greyhound
+mastiff
+setter
+bulldog
+poodle
+schnauzer
+griffon
+pinscher
+pointer
+retriever
+spaniel
+dane
+pyrenees
+spaniel.
+for
+has
+with
+on
+in
+at
+and
+or
+of
+it
+its
+this
+that
+an
+to
+from
+by
+dog.
+retriever.
+poodle.
+schnauzer.
+setter.
+hound.
+mastiff.
+airedale.
+sheepdog.
+wire-haired fox terrier
+collie.
+tibetan mastiff
+basset.
+cardigan.
+komondor.
+bloodhound.
+afghan hound
+soft-coated wheaten terrier
+bedlington terrier
+welsh springer spaniel
+cocker spaniel
+shetland sheepdog
+lhasa.
+ridgeback.
+bull.
+pomeranian.
+rhodesian ridgeback
+miniature schnauzer
+boston bull
+bull mastiff
+whippet.
+shepherd.
+dinmont.
+dhole.
+german shepherd
+dandie dinmont
+norwich terrier
+malamute.
+affenpinscher.
+groenendael.
+pembroke.
+clumber.
+malinois.
+lakeland terrier
+labrador retriever
+golden retriever
+scotch terrier
+springer.
+pointer.
+sealyham terrier
+english springer
+maltese dog
+german short-haired pointer
+entlebucher.
+bulldog.
+briard.
+coonhound.
+appenzeller.
+beagle.
+pyrenees.
+dingo.
+flandres.
+boxer.
+french bulldog
+norfolk terrier
+black-and-tan coonhound
+toy poodle
+african hunting dog
+great pyrenees
+bouvier des flandres
+irish setter
+vizsla.
+shih-tzu.
+weimaraner.
+otterhound.
+pekinese.
+irish terrier
+english setter
+australian terrier
+tibetan terrier
+border terrier
+kelpie.
+borzoi.
+saluki.
+leonberg.
+newfoundland.
+chow.
+greyhound.
+bernese mountain dog
+standard schnauzer
+curly-coated retriever
+border collie
+blenheim spaniel
+italian greyhound
+irish water spaniel
+miniature poodle
+bluetick.
+rottweiler.
+cairn.
+redbone.
+deerhound.
+pug.
+samoyed.
+papillon.
+old english sheepdog
+brittany spaniel
+japanese spaniel
+scottish deerhound
+standard poodle
+eskimo dog
+toy terrier
+schipperke.
+elkhound.
+chihuahua.
+pinscher.
+bernard.
+foxhound.
+greater swiss mountain dog
+flat-coated retriever
+norwegian elkhound
+miniature pinscher
+saint bernard
+english foxhound
+sussex spaniel
+hairless.
+wolfhound.
+husky.
+keeshond.
+griffon.
+mexican hairless
+yorkshire terrier
+irish wolfhound
+siberian husky
+brabancon griffon
+kuvasz.
+west highland white terrier
+walker hound
+silky terrier
+gordon setter
+dane.
+basenji.
+bullterrier.
+great dane
+chesapeake bay retriever
+staffordshire bullterrier
+doberman.
+ibizan hound
+kerry blue terrier
+american staffordshire terrier
+giant schnauzer
+error:
+connection
+error.
+error
+code:
+400
+-
+{'error':
+{'message':
+'input
+data
+may
+contain
+inappropriate
+content.
+details,
+see:
+https://help.aliyun.com/zh/model-studio/error-code#inappropriate-content',
+'type':
+'data_inspection_failed',
+'param':
+none,
+'code':
+'data_inspection_failed'},
+'id':
+'request_id':
+'chatcmpl-a35ff9a1-8864-9182-99c2-92194e1ad419',
+'a35ff9a1-8864-9182-99c2-92194e1ad419'}
+'chatcmpl-ce4da692-d639-97df-820a-3f83a89d9d16',
+'ce4da692-d639-97df-820a-3f83a89d9d16'}
+request
+timed
+out.

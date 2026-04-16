@@ -1,0 +1,43 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "caption": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "license": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "coco_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "height": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "width": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "date_captured": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "flickr_url": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

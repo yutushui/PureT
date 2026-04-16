@@ -1,0 +1,687 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Stage 2 预测结果可视化</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .summary {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .sample {
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .sample-header {
+            background-color: #f8f9fa;
+            padding: 10px;
+            margin: -15px -15px 10px -15px;
+            border-bottom: 1px solid #ddd;
+            border-radius: 8px 8px 0 0;
+            font-weight: bold;
+        }
+        .img-container {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+        }
+        .img-wrapper {
+            flex: 0 0 auto;
+        }
+        .img-wrapper img {
+            max-width: 300px;
+            height: auto;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+        .info {
+            flex: 1;
+        }
+        .info-item {
+            margin: 8px 0;
+        }
+        .label {
+            font-weight: bold;
+            color: #555;
+            display: inline-block;
+            min-width: 120px;
+        }
+        .predicted {
+            color: #2196F3;
+        }
+        .ground-truth {
+            color: #4CAF50;
+        }
+        .note {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🐕 Stage 2 预测结果可视化</h1>
+
+        <div class="summary">
+            <strong>说明：</strong>这里显示了前20个验证集样本，包含图片、预测结果和真实标注。
+            <br>
+            你可以通过对比图片和文字描述来验证模型的预测是否准确。
+        </div>
+
+        <div class="note">
+            ⚠️ <strong>数据集问题注意：</strong>发现验证集的图片文件都在Lhasa文件夹下，
+            但标注却是不同的品种。这是数据集准备过程中的错误。
+            <strong>请以实际图片为准来判断模型预测是否正确！</strong>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 1 (图片ID: 0)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_7441.jpg" alt="Dog image 1" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_7441
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a miniature schnauzer"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Norwegian elkhound."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_7441.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 2 (图片ID: 1)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_244.jpg" alt="Dog image 2" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_244
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a english foxhound"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Brittany spaniel."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_244.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 3 (图片ID: 2)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_20356.jpg" alt="Dog image 3" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_20356
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a irish terrier"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Norfolk terrier."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_20356.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 4 (图片ID: 3)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_575.jpg" alt="Dog image 4" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_575
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a tibetan terrier"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Saluki."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_575.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 5 (图片ID: 4)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_13083.jpg" alt="Dog image 5" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_13083
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a keeshond"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a keeshond."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_13083.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 6 (图片ID: 5)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_1552.jpg" alt="Dog image 6" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_1552
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a great dane"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a whippet."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_1552.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 7 (图片ID: 6)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_6923.jpg" alt="Dog image 7" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_6923
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a chow"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a chow."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_6923.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 8 (图片ID: 7)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_9304.jpg" alt="Dog image 8" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_9304
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a saluki"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Ibizan hound."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_9304.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 9 (图片ID: 8)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_7979.jpg" alt="Dog image 9" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_7979
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a chesapeake bay retriever"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a golden retriever."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_7979.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 10 (图片ID: 9)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_1655.jpg" alt="Dog image 10" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_1655
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a borzoi"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Ibizan hound."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_1655.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 11 (图片ID: 10)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_624.jpg" alt="Dog image 11" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_624
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a newfoundland"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a groenendael."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_624.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 12 (图片ID: 11)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_1107.jpg" alt="Dog image 12" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_1107
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a dhole"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a dhole."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_1107.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 13 (图片ID: 12)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_17895.jpg" alt="Dog image 13" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_178
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a bluetick"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Chihuahua."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_17895.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 14 (图片ID: 13)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_19649.jpg" alt="Dog image 14" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_19649
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a lhasa"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Shih-Tzu."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/train/n02098413-Lhasa/n02098413_19649.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 15 (图片ID: 14)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_1355.jpg" alt="Dog image 15" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_1355
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a rhodesian ridgeback"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a basenji."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_1355.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 16 (图片ID: 15)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_20499.jpg" alt="Dog image 16" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_20499
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a airedale"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Airedale."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_20499.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 17 (图片ID: 16)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_14264.jpg" alt="Dog image 17" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_14264
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a tibetan terrier"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Lhasa."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_14264.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 18 (图片ID: 17)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_333.jpg" alt="Dog image 18" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_333
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a newfoundland"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Tibetan mastiff."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_333.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 19 (图片ID: 18)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_3114.jpg" alt="Dog image 19" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_3114
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a doberman"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a miniature pinscher."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_3114.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sample">
+            <div class="sample-header">
+                样本 20 (图片ID: 19)
+            </div>
+            <div class="img-container">
+                <div class="img-wrapper">
+                    <img src="../PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_14191.jpg" alt="Dog image 20" onerror="this.parentElement.innerHTML='<p>图片加载失败</p>'">
+                </div>
+                <div class="info">
+                    <div class="info-item">
+                        <span class="label">文件名:</span>
+                        n02098413_14191
+                    </div>
+                    <div class="info-item">
+                        <span class="label">模型预测:</span>
+                        <span class="predicted">"the dog is a chihuahua"</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">真实标注:</span>
+                        <span class="ground-truth">"The dog is a Chihuahua."</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">图片路径:</span>
+                        /home/Yu_zhen/pureT/ByteCaption/PureT/stanford_dogs_jpeg/test/n02098413-Lhasa/n02098413_14191.jpg
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div style="text-align: center; margin-top: 30px; color: #666;">
+        <p>提示：如果图片无法加载，请直接在终端中查看图片路径</p>
+    </div>
+</body>
+</html>

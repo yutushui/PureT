@@ -1,0 +1,2492 @@
+{
+  "annotations": [
+    {
+      "image_id": 11472,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 6089,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 6995,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 7902,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 16794,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1524,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 321,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 170,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 1637,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 4250,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 2740,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 408,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 498,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 777,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 5977,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 646,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 21348,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 9597,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 7327,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 14209,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 521,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 19984,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 980,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 3710,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 3424,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 9378,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 13730,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1242,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 6931,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 6514,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 5075,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 1983,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 1147,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 3117,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 14565,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 599,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 1089,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 2810,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 6265,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 23483,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 2457,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 23814,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 3109,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 4945,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 6061,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 267,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 5234,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 5143,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 4418,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 11147,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 1583,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 5742,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 6608,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 16861,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 3781,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 1812,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 8002,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 25603,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 7198,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 1673,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 1740,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 3685,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 8379,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 8518,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 7109,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 12972,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 7059,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 17473,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 2678,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 1881,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 7474,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 285,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 5816,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 3706,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 16163,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 5801,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 21903,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1921,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 687,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 11732,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 1094,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 9806,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 8246,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 2568,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 11088,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 12877,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 2046,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 5630,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 25,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 10107,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 10395,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 7935,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 2565,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 1552,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 8187,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 751,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 10060,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 4975,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 1841,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 14047,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 15111,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 364,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 324,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 17437,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 5442,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 3855,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 16207,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 3607,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 3108,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 2065,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 2698,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 631,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2429,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 12595,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 1384,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 1976,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 11245,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 2739,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 18069,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1828,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 5504,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 3245,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 661,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 11242,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 2009,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 2412,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 13072,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 18113,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 1538,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 2329,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 2824,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 14094,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 5335,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 8556,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 12766,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 714,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 562,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 983,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 2739,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 2753,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 6089,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 1923,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 4879,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 13800,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 3543,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 24,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 466,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 2035,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 7893,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 2349,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 1458,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 3331,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 5601,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 1659,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 4102,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 17608,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1871,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 10715,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 26860,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 13484,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 13236,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 15360,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 7862,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 7923,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 17530,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 2619,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 1763,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 114,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 6695,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 2667,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 22854,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 7181,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 5466,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 10654,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 4267,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1655,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 4258,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 2924,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 6380,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 4730,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 2142,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 3882,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 1172,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 1122,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 1890,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 5936,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 4030,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 7748,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 696,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 6998,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 4099,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 2582,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 875,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 20770,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 11769,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 3036,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 6620,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 2185,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 7144,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 4131,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 1305,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 3667,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 528,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 5147,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 5807,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 1102,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 16541,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 6178,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 8443,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 6616,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 97,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 4582,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 1445,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 695,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 4952,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 9714,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 9225,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 17567,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 13143,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 7825,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 10911,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 2607,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 4332,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 2942,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 7537,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 9866,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 4491,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 7690,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 3442,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 2502,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 200,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 1833,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 2330,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 12008,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 561,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 9849,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 3500,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 4005,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 10490,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 14953,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 1532,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 6784,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 15210,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1251,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 22193,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 16060,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 7835,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 17553,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 3709,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 1533,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 707,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 4784,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 12358,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 7979,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 9708,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 208,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 3377,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 1354,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 1480,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 22245,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 12341,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 732,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 33047,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 7650,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 10380,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 12887,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 3672,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 6190,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 11235,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 1356,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 7099,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 821,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 2630,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 6105,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 2404,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 12138,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 125,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1813,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 7025,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 349,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 7850,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 228,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 207,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 8701,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 1948,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 6866,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 7358,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 3442,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 817,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 6726,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 3938,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 1242,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 4751,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 8053,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 4110,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 2536,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 637,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 24773,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 9625,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 12154,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 12193,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 2369,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 9650,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 815,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 5437,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 19649,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 6248,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 11467,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 16109,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 2954,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 11648,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 581,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 3098,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 2209,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 4052,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 11387,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 9531,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 11875,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 34175,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 4181,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 3365,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 10858,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 2452,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 2394,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 33651,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1885,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 3988,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 12318,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 94,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 2194,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 4240,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 10160,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 15112,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 4150,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 1901,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 6142,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 3306,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 3499,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 5651,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 7854,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 1574,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 3294,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 677,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 253,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 12017,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 2271,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 1199,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 6014,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 1389,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 3470,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2677,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 2123,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 5728,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 9810,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 6402,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 7425,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 16502,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 2337,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 5057,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 25277,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1086,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 2129,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 4271,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 12272,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 7726,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 3748,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 738,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 990,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 9520,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 2173,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 13957,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 10677,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 5123,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 6672,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 6027,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 104,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 1750,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 10792,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 5223,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 2297,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 20398,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2464,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 3439,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 10693,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 641,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 4869,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 17240,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 3758,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 2001,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 8407,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 8713,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 387,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 1767,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 96,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 3026,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 5734,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 1643,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 32635,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 16508,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 1855,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 6964,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 126,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 2076,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 9585,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 3295,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 31274,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 10058,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 11313,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 6174,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 1671,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 1687,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 1112,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 917,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 28433,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1252,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 16665,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 12405,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 10699,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 558,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 6709,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 7238,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 10144,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2203,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 8482,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 1028,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 667,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 2103,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 6483,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 5192,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 9008,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 15096,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 1343,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 597,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 3585,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 10930,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 4517,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 9740,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1155,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 9753,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 1597,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 9,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 2182,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 6453,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 141,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 2030,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 12899,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1963,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 2378,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 3457,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 1029,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 2905,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 1564,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 12594,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 5760,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 8871,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 2311,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 2742,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 628,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 1516,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 18922,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 5805,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 3,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 6458,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 2001,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 4545,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 25917,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 3717,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 3387,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 5783,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 9412,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 2639,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 320,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 375,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 987,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 5031,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 2631,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 292,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 3618,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 9550,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2833,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 1204,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 11390,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 11261,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 1615,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 17294,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 10296,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 590,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 619,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 16519,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 4217,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 10373,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 3723,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 3269,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 2875,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 5792,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 48,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 627,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 2008,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 785,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 10502,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 329,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 585,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 10559,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 3142,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 3643,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 368,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 20036,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 12792,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 12977,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 10087,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 1842,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 1512,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 21715,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 2465,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 7313,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 6621,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 3685,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1693,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 16322,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 857,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 1326,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 2138,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 1804,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 6300,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 3467,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 8983,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 12816,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 4238,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 11363,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 639,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 2523,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 3696,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 2999,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 348,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 2974,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 6817,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 2970,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 7706,
+      "caption": "The dog is a chow."
+    },
+    {
+      "image_id": 17759,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 7545,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 3236,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 7820,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 9256,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 16735,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 1472,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 3766,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 1784,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2919,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 14567,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 1362,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 1837,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 9895,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 9330,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 7310,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 2550,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 91,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 2372,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 4223,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 5038,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 7445,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 1965,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 6213,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 2742,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 21040,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2842,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 875,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 15855,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 7902,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 24340,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 22394,
+      "caption": "The dog is a German shepherd."
+    },
+    {
+      "image_id": 6827,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 1422,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 964,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 4632,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 4470,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 1307,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 1690,
+      "caption": "The dog is a EntleBucher."
+    },
+    {
+      "image_id": 6082,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 4174,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 14263,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 10017,
+      "caption": "The dog is a Brittany spaniel."
+    },
+    {
+      "image_id": 779,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 10151,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 638,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 922,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 1849,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 18140,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 3664,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 366,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 1005,
+      "caption": "The dog is a Great Dane."
+    },
+    {
+      "image_id": 5656,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 3374,
+      "caption": "The dog is a soft-coated wheaten terrier."
+    },
+    {
+      "image_id": 251,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 1469,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 1112,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 13405,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 2875,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 9652,
+      "caption": "The dog is a beagle."
+    },
+    {
+      "image_id": 7160,
+      "caption": "The dog is a Scottish deerhound."
+    },
+    {
+      "image_id": 453,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 1671,
+      "caption": "The dog is a cocker spaniel."
+    },
+    {
+      "image_id": 758,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 10521,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 1086,
+      "caption": "The dog is a silky terrier."
+    },
+    {
+      "image_id": 10107,
+      "caption": "The dog is a whippet."
+    },
+    {
+      "image_id": 4721,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 2540,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 387,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 20614,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 14785,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 56,
+      "caption": "The dog is a bull mastiff."
+    },
+    {
+      "image_id": 1153,
+      "caption": "The dog is a Gordon setter."
+    },
+    {
+      "image_id": 716,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 3917,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 4737,
+      "caption": "The dog is a Sussex spaniel."
+    },
+    {
+      "image_id": 656,
+      "caption": "The dog is a Border terrier."
+    },
+    {
+      "image_id": 18706,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 10100,
+      "caption": "The dog is a Old English sheepdog."
+    },
+    {
+      "image_id": 715,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 3285,
+      "caption": "The dog is a Lhasa."
+    },
+    {
+      "image_id": 248,
+      "caption": "The dog is a Welsh springer spaniel."
+    },
+    {
+      "image_id": 16418,
+      "caption": "The dog is a German shepherd."
+    }
+  ]
+}

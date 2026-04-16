@@ -1,0 +1,67 @@
+{
+  "model_folder": "PureT/experiments/ByteCaption_Stage2_FirstSent",
+  "model_name": "ByteCaption_Stage2_FirstSent",
+  "model_type": "PureT_byteformer",
+  "corrupt_type": [
+    "rbbf"
+  ],
+  "corrupt_level": "S0",
+  "corruption_params": {
+    "rbbf": {
+      "trigger_prob": 0.0,
+      "burst_lambda": 0.0,
+      "bit_error_rate": 0.0
+    }
+  },
+  "metrics": {
+    "Bleu_1": 0.7042253521114362,
+    "Bleu_2": 0.6718828080571615,
+    "Bleu_3": 0.6260222148688732,
+    "Bleu_4": 0.5500581578737922,
+    "ROUGE_L": 0.7597099984275669,
+    "CIDEr": 0.0,
+    "METEOR": 0.0,
+    "SPICE": 0.0,
+    "XE_Loss": 0.36044550731778147,
+    "Undecodable_Count": 0,
+    "Undecodable_Ratio": 0.0,
+    "Total_Samples": 100,
+    "Sample_Preview": [
+      {
+        "image_id": 0,
+        "generated": "the dog is a norwegian elkhound",
+        "reference": "The dog is a Maltese_dog.",
+        "augmentation_idx": 0
+      },
+      {
+        "image_id": 1,
+        "generated": "the dog is a english foxhound",
+        "reference": "The dog is a bull_mastiff.",
+        "augmentation_idx": 0
+      },
+      {
+        "image_id": 2,
+        "generated": "the dog is a irish terrier",
+        "reference": "The dog is a briard.",
+        "augmentation_idx": 0
+      },
+      {
+        "image_id": 3,
+        "generated": "the dog is a tibetan terrier",
+        "reference": "The dog is a Great_Pyrenees.",
+        "augmentation_idx": 0
+      },
+      {
+        "image_id": 4,
+        "generated": "the dog is a keeshond",
+        "reference": "The dog is a Ibizan_hound.",
+        "augmentation_idx": 0
+      }
+    ]
+  },
+  "rname": "test_best",
+  "timestamp": "20260414_105258",
+  "references_annfile": "/home/Yu_zhen/pureT/ByteCaption/PureT/data/stanford_dogs_120breeds/validation/annotations.json",
+  "captions_file": "eval_results/20260414_105258/rbbf_S0/captions_test_best.json",
+  "captions_count": 100
+}
