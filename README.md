@@ -73,6 +73,8 @@ bash run_stage1_v2.sh
 
 使用 Stage 1 的权重初始化编码器，训练描述生成模型：
 
+#### v2: 简短描述（品种+一句话）
+
 ```bash
 cd ByteCaption
 bash run_stage2_v2.sh
@@ -96,6 +98,46 @@ bash run_stage2_v2.sh
 | BLEU-4 | 78.36% |
 | ROUGE-L | 86.43% |
 | CIDEr | 5.24 |
+
+#### v3: 详细描述（品种+外观+姿态+环境，~100词）
+
+```bash
+cd ByteCaption
+bash run_stage2_v3_fixed.sh
+```
+
+**配置文件**: `PureT/experiments/ByteCaption_Stage2_v3/config_coco.yml`
+
+| 参数 | 值 |
+|------|-----|
+| Epochs | 20 |
+| Batch Size | 8 |
+| Learning Rate | 0.001 |
+| 词表大小 | ~800 |
+| 序列长度 | 100 |
+
+**训练结果**:
+
+| 指标 | 值 |
+|------|-----|
+| 品种准确率 | **52%** (26/50) |
+| CIDEr | **0.66** |
+| 描述长度 | ~80-100 词 |
+
+**预测示例**:
+
+```
+输入图片 → 模型生成描述:
+
+"the dog is a saint bernard. it has a large, muscular build with a thick
+coat that is primarily white with rich brown patches, especially around
+the ears and back. the dog's face features a distinctive black mask
+around its eyes and muzzle, with a broad, gentle expression. it is lying
+down on a light-colored carpet, resting its head gently on its front paws,
+appearing relaxed and calm. a small blue tag is visible on its collar."
+```
+
+**详细验证日志**: `results_stage2_v3/prediction_verification.log`
 
 ## 重要文件
 
